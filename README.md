@@ -1,5 +1,7 @@
 # Project Information
 
+![image](https://github.com/Ryotess/KKBOX_Music_Recommendation_System/assets/107910175/8e97f804-9e55-4b6b-b20b-d218b169610a)
+
 This repository is the Top 30%/AUC > 0.68 solution for KKBOX recommender competition.  
 We use feature engineering technigues such as SVD, outlier removal and recommendation theory: user-item matrix to reach the ranking.  
  
